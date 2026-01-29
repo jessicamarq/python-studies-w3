@@ -18,8 +18,8 @@ This repository contains my solutions for the exercises from **World 3** of the 
 | ID | Description | Status |
 |---|---|---|
 | **072-077** | Tuples (Immutable Data) | ✅ Completed |
-| **078-083** | Lists Part 1 (Basic Manipulation) | On going|
-| **084-089** | Lists Part 2 (Compound Lists/Matrices) | On going |
+| **078-083** | Lists Part 1 (Basic Manipulation) | ✅ Completed |
+| **084-089** | Lists Part 2 (Compound Lists/Matrices) | ✅ Completed |
 | **090-095** | Dictionaries (Key/Value mapping) | On going|
 | **096-100** | Functions Part 1 (Basics) | On going |
 | **101-106** | Functions Part 2 (Advanced parameters) | On going |
