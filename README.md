@@ -23,6 +23,6 @@ This repository contains my solutions for the exercises from **World 3** of the 
 | **078-083** | Lists Part 1 (Basic Manipulation)      | ✅ Completed |
 | **084-089** | Lists Part 2 (Compound Lists/Matrices) | ✅ Completed |
 | **090-095** | Dictionaries (Key/Value mapping)       | ✅ Completed |
-| **096-100** | Functions Part 1 (Basics)              | On going     |
-| **101-106** | Functions Part 2 (Advanced parameters) | On going     |
-| **107-112** | Modularization & Packages              | On going     |
+| **096-100** | Functions Part 1 (Basics)              | ✅ Completed |
+| **101-106** | Functions Part 2 (Advanced parameters) |✅ Completed |
+| **107-112** | Modularization & Packages              | ✅ Completed |
