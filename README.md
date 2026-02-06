@@ -26,4 +26,3 @@ This repository contains my solutions for the exercises from **World 3** of the 
 | **096-100** | Functions Part 1 (Basics)              | On going     |
 | **101-106** | Functions Part 2 (Advanced parameters) | On going     |
 | **107-112** | Modularization & Packages              | On going     |
-| **113-115** | Error Handling & Final Project (Lib)   | On going     |
